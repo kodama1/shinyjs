@@ -6,8 +6,9 @@ Usage
 
 Just include [jquery.shiny.js] after jQuery. Requires jQuery 1.4+.
 
-## html
+``` html
 <script src='jquery.js'></script>
 <script src='jquery.shiny.js'></script>
----
+```
+
 
