@@ -8,7 +8,7 @@ Just include jquery.shiny.js after jQuery. Requires jQuery 1.4+.
 
 It is also available via [bower].
 
-    $ bower install --save jquery.transit
+    $ bower install --save shinyjs
 
 [bower]: http://bower.io/
 
