@@ -10,6 +10,8 @@ It is also available via [bower].
 
     $ bower install --save jquery.transit
 
+[bower]: http://bower.io/
+
 ## Demo
 
 See the demo [here] (http://codepen.io/marcuscaum/debug/ayuvw) 
