@@ -8,7 +8,7 @@ Just include jquery.shiny.js after jQuery. Requires jQuery 1.4+.
 
 ## Demo
 
-See the example [here] (http://codepen.io/marcuscaum/debug/ayuvw) 
+See the demo [here] (http://codepen.io/marcuscaum/debug/ayuvw) 
 
 
 ## HTML
