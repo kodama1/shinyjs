@@ -1,0 +1,35 @@
+{
+  "name": "jQuery Shiny",
+  "description": "Fast way to make elements fade onload.",
+  "main": "jquery.shiny.min.js",
+  "keywords": [
+    "fade",
+    "jquery",
+    "onload"
+  ],
+  "authors": [
+    "@marcuscaum"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kodama1/shinyjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "_release": "53b61b57e5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "53b61b57e5b31f71b318dc34f731cebdcce97ac2"
+  },
+  "_source": "git://github.com/kodama1/shinyjs.git",
+  "_target": "*",
+  "_originalSource": "shinyjs",
+  "_direct": true
+}

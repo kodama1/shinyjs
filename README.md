@@ -4,13 +4,18 @@
 Usage
 -----
 
-Just include [jquery.shiny.js] after jQuery. Requires jQuery 1.4+.
+Just include jquery.shiny.js after jQuery. Requires jQuery 1.4+.
+
+## Demo
+
+See the example [here] (http://codepen.io/marcuscaum/debug/ayuvw) 
+
 
 ## HTML
 
 ``` html
 <script src='jquery.js'></script>
-<script src='jquery.shiny.js'></script>
+<script src='jquery.shiny.min.js'></script>
 ```
 
 ## Javascript
