@@ -15,9 +15,6 @@ Just include [jquery.shiny.js] after jQuery. Requires jQuery 1.4+.
 
 ## Javascript
 
-
-### Basic
-
 ``` javascript
 $('.foo').shiny();
 ```
@@ -29,4 +26,6 @@ $(document).ready(function(){
 	$('.foo').shiny();
 })
 ```
-### If this plugin was usefull to you, please send me a tweet (@marcuscaum)! We are open to receive any ideas to make this plugin better every day. 
+## Feedback
+
+If this plugin was usefull to you, please send me a tweet (@marcuscaum)! We are open to receive any ideas to make this plugin better every day. 
