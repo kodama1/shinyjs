@@ -14,7 +14,7 @@ See the demo [here] (http://codepen.io/marcuscaum/debug/ayuvw)
 ## HTML
 
 ``` html
-<script src='jquery.js'></script>
+<script src='jquery.j'></script>
 <script src='jquery.shiny.min.js'></script>
 ```
 
